@@ -42,9 +42,9 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/Coolinglass"
+  github           : Coolinglass
   kaggle           : # Username  
-  stackoverflow    : Lokesh Palani  
+  stackoverflow    : #Lokesh Palani  
 
   # Social media
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/plokesh/
+  linkedin         : plokesh/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
