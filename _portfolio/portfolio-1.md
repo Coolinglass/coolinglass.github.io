@@ -14,4 +14,4 @@ taxis. Enhancing the efficiency of these services' taxi dispatch systems hinges 
 •	Learn implementation of a Linear Regression Model
 •	How to work with and create Geospatial Features
 
-More: [_View on github](https://github.com/Coolinglass/Applied-Machine-Learning-Projects/blob/master/Lokesh_NYC_Prediction.ipynb)
+More: [View on github](https://github.com/Coolinglass/Applied-Machine-Learning-Projects/blob/master/Lokesh_NYC_Prediction.ipynb)
