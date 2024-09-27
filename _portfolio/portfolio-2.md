@@ -10,4 +10,4 @@ collection: portfolio
 •	Build machine learning model
 •	Time Series Forecasting models
 
-More: 
+More: [View on github](https://github.com/Coolinglass/Applied-Machine-Learning-Projects/blob/master/Time_series_forecasting_Energy_consumption.ipynb)
