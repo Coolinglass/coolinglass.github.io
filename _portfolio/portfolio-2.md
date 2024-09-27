@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Using Time series models for forecasting energy consumption"
+excerpt: "Prediction of Energy Consumption using various Time series models such as Winterholts & SARIMA" <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
+**Project Goals**: Forecasting energy consumption is vital for optimizing energy generation, enhancing planning, operation, management, and efficient use of energy systems, and boosting the energy market. In this project, we will utilize historical data of monthly electricity consumption to forecast future demand.
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+**Learning Objective:**
+•	Exploring time series data
+•	Build machine learning model
+•	Time Series Forecasting models
+
+More: 
