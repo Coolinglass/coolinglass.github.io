@@ -9,9 +9,11 @@ Ride-hailing services, like Uber and Ola, leverage online platforms to link pass
 taxis. Enhancing the efficiency of these services' taxi dispatch systems hinges on predicting the duration a driver's taxi will be occupied. Accurate forecasts of ride completion times enable dispatchers to optimally assign drivers to pickup requests.
 
 **Learning Objective:**
-•	Understand the importance of Data Exploration
-•	Learn the power of Feature Engineering to improve your models.
-•	Learn implementation of a Linear Regression Model
-•	How to work with and create Geospatial Features
+<ul>
+<li>Understand the importance of Data Exploration.</li>
+<li>Learn the power of Feature Engineering to improve your models.</li>
+<li>Learn implementation of a Linear Regression Model.</li>
+<li>How to work with and create Geospatial Features.</li>
+</ul>
 
 More: [View on github](https://github.com/Coolinglass/Applied-Machine-Learning-Projects/blob/master/Lokesh_NYC_Prediction.ipynb)
