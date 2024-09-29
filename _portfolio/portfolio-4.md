@@ -1,19 +1,19 @@
 ---
-title: "Predicting Trip Duration"
-excerpt: " Predict Trip duration for Ride-Hailing services based on NYC Datset using Linear Regression. 1<br/><img src='/images/500x300.png'>"
+title: "Space X Falcon 9 First Stage Landing Prediction"
+excerpt: " Predict launch success rates using SVM, KNN & Decision Tree Classifer models. 
 collection: portfolio
 ---
 
 **Problem Statement:**
-Ride-hailing services, like Uber and Ola, leverage online platforms to link passengers with local drivers using personal vehicles, often offering a more affordable and convenient alternative to traditional
-taxis. Enhancing the efficiency of these services' taxi dispatch systems hinges on predicting the duration a driver's taxi will be occupied. Accurate forecasts of ride completion times enable dispatchers to optimally assign drivers to pickup requests.
+Space X advertises Falcon 9 rocket launches on its website with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because Space X can reuse the first stage. Therefore if we can determine if the first stage will land, we can determine the cost of a launch. In this lab, you will create a machine learning pipeline to predict if the first stage will land given the data from the preceding labs.
 
 **Learning Objective:**
 <ul>
-<li>Understand the importance of Data Exploration.</li>
-<li>Learn the power of Feature Engineering to improve your models.</li>
-<li>Learn implementation of a Linear Regression Model.</li>
-<li>How to work with and create Geospatial Features.</li>
+<li>Perform exploratory data analysis and determine training labels</li>
+<li>Model prediction using SVM, KNN & Decision Tree Classifer.</li>
+<li>Hyperparameter tuning for the above models.</li>
 </ul>
 
-More: [View on github](https://github.com/Coolinglass/Applied-Machine-Learning-Projects/blob/master/Lokesh_NYC_Prediction.ipynb)
+More: [View on github](https://github.com/Coolinglass/Applied-Data-Science-Capstone/blob/main/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
+
+<br/><img src='/images/500x300.png'>"
