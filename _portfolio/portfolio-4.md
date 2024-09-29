@@ -1,6 +1,6 @@
 ---
 title: "Space X Falcon 9 First Stage Landing Prediction"
-excerpt: " Predict launch success rates using SVM, KNN & Decision Tree Classifer models. 
+excerpt: " Predict launch success rates using SVM, KNN & Decision Tree Classifer models." 
 collection: portfolio
 ---
 
