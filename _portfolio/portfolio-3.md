@@ -1,17 +1,18 @@
 ---
-title: "Predicting Trip Duration"
-excerpt: " Predict Trip duration for Ride-Hailing services based on NYC Datset using Linear Regression. 1<br/><img src='/images/500x300.png'>"
+title: "Demand Forecasting for Food Items: A Comprehensive Approach"
+excerpt: " Perform Exploratory Data Analysis to under sales for various products in a store. 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
 **Problem Statement:**
-Ride-hailing services, like Uber and Ola, leverage online platforms to link passengers with local drivers using personal vehicles, often offering a more affordable and convenient alternative to traditional
-taxis. Enhancing the efficiency of these services' taxi dispatch systems hinges on predicting the duration a driver's taxi will be occupied. Accurate forecasts of ride completion times enable dispatchers to optimally assign drivers to pickup requests.
+Project client is a meal delivery company that operates in multiple cities.They have various fulfillment centers in these cities for dispatching meal orders to their customers. The client wants to help these centers with demand forecasting for upcoming weeks so that these centers will plan the stock of raw materials accordingly.
+
+The replenishment of most raw materials is done every week and since the raw material is perishable, procurement planning is of utmost importance. Secondly, staffing of the centers is also one area
+wherein accurate demand forecasts are helpful.
 
 **Learning Objective:**
-•	Understand the importance of Data Exploration
-•	Learn the power of Feature Engineering to improve your models.
-•	Learn implementation of a Linear Regression Model
-•	How to work with and create Geospatial Features
+•	Understand the importance of Data Exploration.
+•	Dashboarding for Effective Data visualization
+•	Data wrangling, cleaning and analysis using Pandas library.
 
 More: [View on github](https://github.com/Coolinglass/Applied-Machine-Learning-Projects/blob/master/Lokesh_NYC_Prediction.ipynb)
