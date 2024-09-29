@@ -1,6 +1,6 @@
 ---
 title: "Demand Forecasting for Food Items: A Comprehensive Approach"
-excerpt: " Perform Exploratory Data Analysis to under sales for various products in a store. 1<br/><img src='/images/500x300.png'>"
+excerpt: " Perform Exploratory Data Analysis to under sales for various products in a store."
 collection: portfolio
 ---
 
@@ -16,3 +16,5 @@ wherein accurate demand forecasts are helpful.
 •	Data wrangling, cleaning and analysis using Pandas library.
 
 More: [View on github](https://github.com/Coolinglass/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis_(EDA).ipynb)
+
+<br/><img src='/images/500x300.png'>
