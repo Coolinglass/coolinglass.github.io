@@ -13,7 +13,9 @@ About Me
 ======
 I am a detail-oriented and resilient individual driven by a perpetual curiosity to tackle new challenges that contribute to personal growth and make the world a better place.
 
-My interest in data analytics began in 2019 when I discovered how Suffolk Construction used data to predict and prevent catastrophic safety events on their projects. This experience inspired me to explore the powerful applications of Machine Learning and Artificial Intelligence across various domains. Having used various construction technology in my career spanning 8 years at various construction companies in a variety of roles, I began to see and understand how Machine learning and Artificial Intelligence is transforming the built environment.
+My interest in data analytics began in 2019 when I discovered how Suffolk Construction used data to predict and prevent catastrophic safety events on their projects. This experience inspired me to explore the powerful applications of Machine Learning and Artificial Intelligence across various domains. 
+
+Having used various construction technology in my career spanning 8 years at various construction companies in a variety of roles, I began to see and understand how Machine learning and Artificial Intelligence is transforming the built environment.
 
 I joined the Blackbelt AI/ML program at Analytics Vidhya, where I worked on numerous real-life data science projects that deepened my understanding of the data analytics lifecycle, including problem identification, data collection, data preparation, data modeling and analysis, model evaluation, and deployment. Throughout this bootcamp, I was able to work on various machine learning algorithm projects such as prediction of falcon 9 landing, trip duration and retail sales quantity for a grocery store using various Machine learning models such as Linear Regression, KNN, Decision Tree and Random Forest to provide best results.
 
