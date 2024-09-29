@@ -11,9 +11,11 @@ The replenishment of most raw materials is done every week and since the raw mat
 wherein accurate demand forecasts are helpful.
 
 **Learning Objective:**
-•	Understand the importance of Data Exploration.
-•	Dashboarding for Effective Data visualization
-•	Data wrangling, cleaning and analysis using Pandas library.
+<ul>
+<li>•	Understand the importance of Data Exploration.</li>
+</li>•	Dashboarding for Effective Data visualization.</li>
+</li>•	Data wrangling, cleaning and analysis using Pandas library.</li>
+</ul>
 
 More: [View on github](https://github.com/Coolinglass/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis_(EDA).ipynb)
 
