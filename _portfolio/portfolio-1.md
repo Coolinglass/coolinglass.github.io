@@ -1,6 +1,6 @@
 ---
 title: "Predicting Trip Duration"
-excerpt: " Predict Trip duration for Ride-Hailing services based on NYC Datset using Linear Regression. 1<br/><img src='/images/500x300.png'>"
+excerpt: " Predict Trip duration for Ride-Hailing services based on NYC Datset using Linear Regression."
 collection: portfolio
 ---
 
