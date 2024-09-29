@@ -12,9 +12,9 @@ wherein accurate demand forecasts are helpful.
 
 **Learning Objective:**
 <ul>
-<li>•	Understand the importance of Data Exploration.</li>
-<li>•	Dashboarding for Effective Data visualization.</li>
-<li>•	Data wrangling, cleaning and analysis using Pandas library.</li>
+<li>Understand the importance of Data Exploration.</li>
+<li>Dashboarding for Effective Data visualization.</li>
+<li>Data wrangling, cleaning and analysis using Pandas library.</li>
 </ul>
 
 More: [View on github](https://github.com/Coolinglass/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis_(EDA).ipynb)
