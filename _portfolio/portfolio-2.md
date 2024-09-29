@@ -7,8 +7,8 @@ collection: portfolio
 
 **Learning Objective:**
 <ul>
-<li>•	Exploring time series data.</li>
-<li>•	Build machine learning model.</li>
-<li>•	Time Series Forecasting models.</li>
+<li>Exploring time series data.</li>
+<li>Build machine learning model.</li>
+<li>Time Series Forecasting models.</li>
 </ul>
 More: [View on github](https://github.com/Coolinglass/Applied-Machine-Learning-Projects/blob/master/Time_series_forecasting_Energy_consumption.ipynb)
