@@ -34,8 +34,7 @@ Education
 * M.S. in Civil Engineering, [Virginia Tech](https://www.vt.edu/academics/majors/construction-engineering-and-management.html), December 2016
   * Coursework: Contract Administration & Claims, CII Best Practices, Managing Capital Projects, Facility delivery & Financing, Schedule Delay Analysis, Construction Company Management.
     
-* Analytics Vidhya Bootcamp
-  * Certified AI & ML Blackbelt+ Program, [Analytics Vidhya](https://www.analyticsvidhya.com/bbplus?utm_source=newhomepage), May 2023
+* Certified AI & ML Blackbelt+ Program, [Analytics Vidhya](https://www.analyticsvidhya.com/bbplus?utm_source=newhomepage), May 2023
   * Data Visualization using Power BI & Tableau, Fundamental of SQL & Mongo DB, Applied Machine Learning Algorithms, Neural Networks, Computer Vision, Apache Spark, Natural Language Processing using Deep Learning, Structured Thinking, Time Series Forecasting, Recommender Systems
     
 * B.E. Civil Engineering , [Anna University](https://civil.annauniv.edu/civil/index.php), May 2015
