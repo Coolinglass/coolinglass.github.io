@@ -15,4 +15,4 @@ wherein accurate demand forecasts are helpful.
 •	Dashboarding for Effective Data visualization
 •	Data wrangling, cleaning and analysis using Pandas library.
 
-More: [View on github](https://github.com/Coolinglass/Applied-Machine-Learning-Projects/blob/master/Lokesh_NYC_Prediction.ipynb)
+More: [View on github](https://github.com/Coolinglass/Exploratory-Data-Analysis/blob/main/Exploratory_Data_Analysis_(EDA).ipynb)
