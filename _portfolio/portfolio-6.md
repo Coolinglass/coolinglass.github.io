@@ -17,4 +17,4 @@ involves detecting hate speech in tweets, with a focus on classifying tweets con
 
 More: [View on github](https://github.com/Lokesh-Analytics/Neural-Network-Projects/blob/main/Neural_Nets_Sentimental_analysis.ipynb)
 
-<br/><img src='/images/Port-6.png'>
+#<br/><img src='/images/Port-6.png'>
